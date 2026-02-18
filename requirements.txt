@@ -1,0 +1,7 @@
+pandas
+pandas-gbq
+google-cloud-bigquery
+matplotlib
+seaborn
+numpy
+os
